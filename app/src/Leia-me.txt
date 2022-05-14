@@ -1,0 +1,4 @@
+Na pasta compactada main tem-se:
+- Os arquivos AcessoBD.java, MainActivity e Usuário em main\java\com\example\conexaobdsqlite_v1
+- O arquivo content_main.xml em main\res\layout
+- O arquivo strings.xml em main\res\values
